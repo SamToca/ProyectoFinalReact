@@ -1,0 +1,31 @@
+.noMeLaConteiner{
+    color: red;
+    display: flex;
+    
+}
+
+.lista{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 13px;
+    display: flex;
+}
+
+.lista__item{
+    display: inline;
+    padding-left: 3px;
+    padding-right: 3px;
+    justify-content: space-between;
+}
+
+a{
+    color: gray;
+    text-decoration: none;
+}
+
+a:hover{
+    color: black;
+    background-color: lightgray;
+}
+
+
